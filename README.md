@@ -1,4 +1,7 @@
 # itechnika-example-pdf-android
-Android에서 PDF를 이미지로 변환, 이미지를 PDF로 변환
+Convert PDF to image and image to PDF on Android
 
-https://d2j2logs.blogspot.com
+Blog
+Korean: https://d2j2logs.blogspot.com/2025/03/android-pdf.html
+English: https://d2j2logs-en.blogspot.com/2025/03/convert-pdf-to-image-and-image-to-pdf.html
+Basaha Indonesia: https://d2j2logs-id.blogspot.com/2025/03/konversi-pdf-ke-gambar-dan-gambar-ke.html
