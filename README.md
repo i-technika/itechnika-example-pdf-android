@@ -1,6 +1,15 @@
 # itechnika-example-pdf-android
 Convert PDF to image and image to PDF on Android
 
+***
+
+### Blog  
+***Korean***: https://d2j2logs.blogspot.com/2025/03/convert-pdf-to-image-and-image-to-pdf.html  
+***English***: https://d2j2logs-en.blogspot.com/2025/03/convert-pdf-to-image-and-image-to-pdf.html  
+***Basaha Indonesia***: https://d2j2logs-id.blogspot.com/2025/03/convert-pdf-to-image-and-image-to-pdf.html  
+
+***
+
 ### Run Example
 
 <img src="https://github.com/user-attachments/assets/149300b6-6fe2-4d53-8699-e6e3de1ac1d7" width="25%" align="left">
@@ -65,10 +74,3 @@ private fun bitmapArray2Pdf(array: ArrayList<Bitmap>) : ByteArray? {
     return bytes
 }
 ```
-
-***
-
-### Blog  
-***Korean***: https://d2j2logs.blogspot.com/2025/03/convert-pdf-to-image-and-image-to-pdf.html  
-***English***: https://d2j2logs-en.blogspot.com/2025/03/convert-pdf-to-image-and-image-to-pdf.html  
-***Basaha Indonesia***: https://d2j2logs-id.blogspot.com/2025/03/convert-pdf-to-image-and-image-to-pdf.html  
